@@ -1,0 +1,22 @@
+body {
+    margin: 10px;
+}
+
+.entries {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.atas_1 {
+    padding: 5px 60px;
+}
+
+.atas_2 {
+    padding: 10px 60px;
+}
+
+table td {
+    padding: 10px 10px;
+    text-align: center;
+}
